@@ -4,6 +4,8 @@ This repository aims to provide a practical way to implement `rails-api` with ra
 
 Which simulates a CRUD `friends-contact` application that can retrieve batch of friends or a specific friend info.
 
+Refer to path `app/controllers/api/v1` to checkout the API implementation.
+
 This repository use gem `rswag` for generate swagger docs & ui by the following steps:
   - refer to https://github.com/rswag/rswag for standard documentation.
   - notes:
